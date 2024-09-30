@@ -19,7 +19,7 @@ class HelloWorldController {
     public String hello() {
         return "<div style='text-align: center;'>" +
                "<h1>Hello World V2.0!</h1>" +
-               "<h2>DEMO SPRING MAVEN BSI</h2>" +
+               "<h2>DEMO SPRING MAVEN BiBiT BSI</h2>" +
                "</div>";
     }
 }
